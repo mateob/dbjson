@@ -1,14 +1,14 @@
 {
     "cliente": [
-        { "id": 1, "nome": "Mateo Barrios", "nome_fantasia": "Mation Totvs", "documento": 12345615485, "email": "mateo@totvs.com.br", "codigo_ddd": 11, "telefone": 9536855452 },
-        { "id": 2, "nome": "Lucas Victor", "nome_fantasia": "Lucion Totvs", "documento": 41522254857, "email": "lucas@totvs.com.br", "codigo_ddd": 11, "telefone": 9536855452 },
-        { "id": 3, "nome": "Vitor Kern", "nome_fantasia": "Vition Totvs", "documento": 12345615485, "email": "Vitor@totvs.com.br", "codigo_ddd": 11, "telefone": 9536855452 },
-        { "id": 4, "nome": "Jefferson Follman", "nome_fantasia": "Jeffersion Totvs", "documento": 12345615485, "email": "jefferson@totvs.com.br", "codigo_ddd": 11, "telefone": 9536855452 },
-        { "id": 5, "nome": "Gustavo Emmel", "nome_fantasia": "Gustavion Totvs", "documento": 12345615485, "email": "gustavo@totvs.com.br", "codigo_ddd": 11, "telefone": 9536855452 }
+        { "id": 1, "name": "Mateo Barrios", "company_name": "Mation Totvs", "document": 12345615485, "email": "mateo@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
+        { "id": 2, "name": "Lucas Victor", "company_name": "Lucion Totvs", "document": 41522254857, "email": "lucas@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
+        { "id": 3, "name": "Vitor Kern", "company_name": "Vition Totvs", "document": 12345615485, "email": "Vitor@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
+        { "id": 4, "name": "Jefferson Follman", "company_name": "Jeffersion Totvs", "document": 12345615485, "email": "jefferson@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
+        { "id": 5, "name": "Gustavo Emmel", "company_name": "Gustavion Totvs", "document": 12345615485, "email": "gustavo@totvs.com.br", "ddd_code": 11, "phone": 9536855452 }
     ],
     "produto": [
-        { "id": 1, "nome": "Eleve [Financeiro]", "codigo": "T12585", "description": "Produto para gestão financeira" },
-        { "id": 2, "nome": "Eleve [Saude]", "codigo": "T12586", "description": "Produto para gestão de clinicas e consultórios médicos" },
-        { "id": 3, "nome": "Protheus [Agro]", "codigo": "T65885", "description": "Conecta toda a cadeia agrícola com automatizações de operações de ponta, agéis e integradas" }
+        { "id": 1, "name": "Eleve [Financeiro]", "code": "T12585", "description": "Produto para gestão financeira" },
+        { "id": 2, "name": "Eleve [Saude]", "code": "T12586", "description": "Produto para gestão de clinicas e consultórios médicos" },
+        { "id": 3, "name": "Protheus [Agro]", "code": "T65885", "description": "Conecta toda a cadeia agrícola com automatizações de operações de ponta, agéis e integradas" }
     ]
 }
