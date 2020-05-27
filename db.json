@@ -1,19 +1,23 @@
 {
-    "cliente": [
+    "customer": [
         { "id": 1, "name": "Mateo Barrios", "company_name": "Mation Totvs", "document": 12345615485, "email": "mateo@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
         { "id": 2, "name": "Lucas Victor", "company_name": "Lucion Totvs", "document": 41522254857, "email": "lucas@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
         { "id": 3, "name": "Vitor Kern", "company_name": "Vition Totvs", "document": 12345615485, "email": "Vitor@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
         { "id": 4, "name": "Jefferson Follman", "company_name": "Jeffersion Totvs", "document": 12345615485, "email": "jefferson@totvs.com.br", "ddd_code": 11, "phone": 9536855452 },
         { "id": 5, "name": "Gustavo Emmel", "company_name": "Gustavion Totvs", "document": 12345615485, "email": "gustavo@totvs.com.br", "ddd_code": 11, "phone": 9536855452 }
     ],
-    "produto": [
-        { "id": 1, "name": "Eleve [Financeiro]", "code": "T12585", "description": "Produto para gestão financeira" },
+    "product": [{
+            "id": 1,
+            "name": "Eleve [Financeiro]",
+            "code": "T12585",
+            "description": "Produto para gestão financeira",
+            "offers": [
+                { "id": 1, "name": "basic", "code": "12585", "description": "Produto para gestão financeira", "value": 200.99, "productId": 1 },
+                { "id": 2, "name": "premium", "code": "12586", "description": "Produto para gestão de clinicas e consultórios médicos", "value": 200.99, "productId": 1 },
+                { "id": 3, "name": "ultra", "code": "65885", "description": "Conecta toda a cadeia ", "value": 200.99, "productId": 1 }
+            ]
+        },
         { "id": 2, "name": "Eleve [Saude]", "code": "T12586", "description": "Produto para gestão de clinicas e consultórios médicos" },
         { "id": 3, "name": "Protheus [Agro]", "code": "T65885", "description": "Conecta toda a cadeia agrícola com automatizações de operações de ponta, agéis e integradas" }
-    ],
-    "oferta": [
-        { "id": 1, "name": "basic", "code": "12585", "description": "Produto para gestão financeira", "value": 200.99, "productId": 1 },
-        { "id": 2, "name": "premium", "code": "12586", "description": "Produto para gestão de clinicas e consultórios médicos", "value": 200.99, "productId": 2 },
-        { "id": 3, "name": "ultra", "code": "65885", "description": "Conecta toda a cadeia ", "value": 200.99, "productId": 2 }
     ]
 }
