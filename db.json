@@ -1,10 +1,10 @@
 {
     "customer": [
-        { "id": 1, "name": "Mateo Barrios", "company_name": "Mation Totvs", "document": 12345615485, "email": "mateo@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "number": 1000, "person_type": 1 },
-        { "id": 2, "name": "Lucas Victor", "company_name": "Lucion Totvs", "document": 41522254857, "email": "lucas@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "number": 1000, "person_type": 1 },
-        { "id": 3, "name": "Vitor Kern", "company_name": "Vition Totvs", "document": 12345615485, "email": "Vitor@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "number": 1000, "person_type": 2 },
-        { "id": 4, "name": "Jefferson Follman", "company_name": "Jeffersion Totvs", "document": 12345615485, "email": "jefferson@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "number": 1000, "person_type": 1 },
-        { "id": 5, "name": "Gustavo Emmel", "company_name": "Gustavion Totvs", "document": 12345615485, "email": "gustavo@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "number": 1000, "person_type": 1 }
+        { "id": 1, "name": "Mateo Barrios", "company_name": "Mation Totvs", "document": 12345615485, "email": "mateo@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "address_address_number": 1000, "person_type": 1 },
+        { "id": 2, "name": "Lucas Victor", "company_name": "Lucion Totvs", "document": 41522254857, "email": "lucas@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "address_number": 1000, "person_type": 1 },
+        { "id": 3, "name": "Vitor Kern", "company_name": "Vition Totvs", "document": 12345615485, "email": "Vitor@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "address_number": 1000, "person_type": 2 },
+        { "id": 4, "name": "Jefferson Follman", "company_name": "Jeffersion Totvs", "document": 12345615485, "email": "jefferson@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "address_number": 1000, "person_type": 1 },
+        { "id": 5, "name": "Gustavo Emmel", "company_name": "Gustavion Totvs", "document": 12345615485, "email": "gustavo@totvs.com.br", "ddd_code": 11, "phone": 9536855452, "zip_code": "02511000", "state": "SP", "city": "São Paulo", "address": "Av. Braz Leme", "address_number": 1000, "person_type": 1 }
     ],
     "product": [{
             "id": 1,
