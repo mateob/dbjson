@@ -19,5 +19,9 @@
         },
         { "id": 2, "name": "Eleve [Saude]", "code": "T12586", "description": "Produto para gestão de clinicas e consultórios médicos" },
         { "id": 3, "name": "Protheus [Agro]", "code": "T65885", "description": "Conecta toda a cadeia agrícola com automatizações de operações de ponta, agéis e integradas" }
+    ],
+    "restriction": [
+        { "name": "Medico", "description": "Quantidade de acessos por Medico", "quantity": "1", "value": "10.00" },
+        { "name": "Gerente", "description": "Quantidade de acessos por Gerente", "quantity": "1", "value": "20.00" }
     ]
 }
